@@ -30,7 +30,7 @@ We built a pipeline to:
 
 ## Architecture
 
-![Job Market Data Pipeline Architecture](Job-Market-Analysis-pipeline/Screenshot/Job Market Data Pipeline Architecture.png)
+![Architecture](Job-Market-Analysis-pipeline/Screenshot/Job Market Data Pipeline Architecture.png)
 
 ---
 
