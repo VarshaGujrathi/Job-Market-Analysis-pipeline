@@ -2,7 +2,6 @@
 
 An end-to-end **Data Engineering project** that collects job postings from Greenhouse and Lever APIs, processes them through a Databricks Lakehouse, and turns them into SQL-based hiring insights.
 
----
 
 ## Business Problem
 
@@ -13,7 +12,6 @@ Job data is spread across different hiring platforms with different schemas and 
 - Which locations have the most opportunities
 - How hiring changes over time
 
----
 
 ## Approach
 
@@ -26,21 +24,18 @@ We built a pipeline to:
 5. Create business-ready Gold tables for job, skill, location and hiring-trend analysis.
 6. Use **SQL** to answer business questions and generate hiring insights.
 
----
 
 ## Architecture
 
-![Architecture](Job-Market-Analysis-pipeline/Screenshot/Job Market Data Pipeline Architecture.png)
+![Architecture](Screenshot/Job%20Market%20Data%20Pipeline%20Architecture.png)
 
----
 
 ## Scheduled Pipeline
 
 The pipeline is scheduled to run automatically using **Databricks Jobs**.
 
-![Scheduled Job](Job-Market-Analysis-pipeline/Screenshot/Scheduled_job.png)
+![Scheduled Job](Screenshot/Scheduled_job.png)
 
----
 
 ## Key Results
 
@@ -51,7 +46,6 @@ The pipeline is scheduled to run automatically using **Databricks Jobs**.
 - Built Gold datasets for **job demand, skill demand, location demand and hiring trends**.
 - Performed **SQL-based business analysis** across the four analysis areas.
 
----
 
 ## Tech Stack
 
