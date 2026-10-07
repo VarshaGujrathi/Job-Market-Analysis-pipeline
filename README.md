@@ -27,7 +27,7 @@ We built a pipeline to:
 
 ## Architecture
 
-![Job Market Data Pipeline Architecture](Job-Market-Analysis-pipeline/Screenshot/Job_Market_Data_Pipeline_Architecture.png)
+![Job Market Data Pipeline Architecture](Job-Market-Analysis-pipeline/Screenshot/Job Market Data Pipeline Architecture.png)
 
 
 ## Scheduled Pipeline
