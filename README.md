@@ -51,5 +51,4 @@ The pipeline is scheduled to run automatically using **Databricks Jobs**.
 
 **Python · REST APIs · AWS S3 · Databricks · PySpark · SQL · Delta Lake**
 
----
 
