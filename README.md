@@ -27,14 +27,14 @@ We built a pipeline to:
 
 ## Architecture
 
-![Architecture](Screenshot/Job%20Market%20Data%20Pipeline%20Architecture.png)
+![Job Market Data Pipeline Architecture](./Screenshot/Job%20Market%20Data%20Pipeline%20Architecture.png)
 
 
 ## Scheduled Pipeline
 
 The pipeline is scheduled to run automatically using **Databricks Jobs**.
 
-![Scheduled Job](Screenshot/Scheduled_job.png)
+![Scheduled Job](./Screenshot/Scheduled_job.png)
 
 
 ## Key Results
